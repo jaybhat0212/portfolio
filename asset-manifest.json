@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5ccef7c4.css",
+    "main.js": "/portfolio/static/js/main.29c774a5.js",
+    "static/js/453.298f5782.chunk.js": "/portfolio/static/js/453.298f5782.chunk.js",
+    "static/media/tClips.png": "/portfolio/static/media/tClips.213b01e37668afa9d703.png",
+    "static/media/bg-light.png": "/portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/nbaPredict.png": "/portfolio/static/media/nbaPredict.3ad2738d5d625940452d.png",
+    "static/media/uw-logo.png": "/portfolio/static/media/uw-logo.dc109fc2fdac2f514258.png",
+    "static/media/profile-pic.png": "/portfolio/static/media/profile-pic.f693534edaeed585954c.png",
+    "static/media/ericsson-logo.png": "/portfolio/static/media/ericsson-logo.5b4265835141af276150.png",
+    "index.html": "/portfolio/index.html",
+    "main.5ccef7c4.css.map": "/portfolio/static/css/main.5ccef7c4.css.map",
+    "main.29c774a5.js.map": "/portfolio/static/js/main.29c774a5.js.map",
+    "453.298f5782.chunk.js.map": "/portfolio/static/js/453.298f5782.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ccef7c4.css",
+    "static/js/main.29c774a5.js"
+  ]
+}
