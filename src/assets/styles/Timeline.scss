@@ -1,38 +1,77 @@
 .vertical-timeline span {
-    color: white;
-    font-family: 'Courier Prime', monospace;
+  color: white;
+  font-family: "Courier Prime", monospace;
 }
 
 .vertical-timeline p {
-    color: rgb(39, 40, 34);
+  color: rgb(39, 40, 34);
 }
 
 .vertical-timeline-element p {
-    color: rgb(39, 40, 34);
+  color: rgb(39, 40, 34);
 }
 
 .vertical-timeline-element h3 {
-    color: rgb(39, 40, 34);
+  color: rgb(39, 40, 34);
 }
 
 .vertical-timeline-element h4 {
-    color: rgb(39, 40, 34);
+  color: rgb(39, 40, 34);
 }
 
 .vertical-timeline-element span {
-    color: rgb(39, 40, 34);
+  color: rgb(39, 40, 34);
 }
 
 .vertical-timeline-element .vertical-timeline-element-date {
-    color: white;
+  color: white;
 }
 
 .svg-inline--fa {
-    color: white;
+  color: white;
+}
+
+.flex-chips {
+  line-height: 2;
+  margin: 0.5;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 1em;
+}
+
+.flex-chips .MuiChip-root {
+  margin-right: 0.5em;
+  background-color: rgb(39, 40, 34) !important; /* Black background */
+  color: white !important; /* White text */
+  font-family: "Source Code Pro", Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+  border: 1px solid #ffffff;
+}
+
+.flex-chips .MuiChip-root span {
+  color: white !important;
+}
+
+.flex-chips .MuiChip-outlined {
+  background-color: #000000 !important;
+  color: white !important; /* White text */
+  font-family: "Source Code Pro", Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+  border: 1px solid #ffffff !important; /* White border */
+}
+
+.flex-chips .MuiChip-outlined span {
+  color: white !important;
+}
+
+.flex-chips .MuiChip-root:hover,
+.flex-chips .MuiChip-outlined:hover {
+  background-color: #333333; 
 }
 
 @media screen and (max-width: 1170px) {
-    .vertical-timeline-element .vertical-timeline-element-date {
-        color: rgb(39, 40, 34);
-    }
+  .vertical-timeline-element .vertical-timeline-element-date {
+    color: rgb(39, 40, 34);
+  }
 }
